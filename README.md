@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tithishah21
-- 🌱 I’m currently learning webdev/AI&ML/DSA...
-- 📫 How to reach me www.linkedin.com/in/tithi-shah-032a11288
+- 🖥️ I’m currently into webdev/DSA(with C++)/AI&ML
+- 📫 How to reach me: www.linkedin.com/in/tithi-shah-032a11288
 - 😄 Pronouns:she/her
 
 
