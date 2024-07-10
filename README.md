@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tithishah21&label=Profile%20views&color=ff2600&style=plastic" alt="tithishah21" /> </p>
 
-- 🔭 I’m currently working on **full stack web dev project**
+- 🔭 I’m currently working on **full stack web development**
 
 - 🌱 I’m currently learning **DSA(with C++) , Java , System design , MongoDB , nextjs**
 
