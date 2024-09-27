@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tithi Shah</h1>
+<h1 align="center">Hi, I'm Tithi</h1>
 <h3 align="center">🔭 About Me: I’m currently working on full stack web development</h3><br>🌱 I’m currently learning DSA(with C++) , Java , System design , MongoDB , nextjs<br><br>💬 Ask me about react , c++ , js<br><br>📫 How to reach me shahtithi21@gmail.com
 
 
