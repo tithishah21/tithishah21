@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tithi</h1>
-<h3 align="center">A passionate frontend developer | Learning DSA with Java | Tech Enthusiast | CSE Core at VIT Vellore</h3><br>🌱 I’m currently learning DSA(in Java), AI/ML basics & backend-frontend integration<br><br>💬 Ask me about React, Tailwind css, Js, Node Js, Express Js<br><br>📫 How to reach me: shahtithi21@gmail.com
+<h3 align="center">A passionate frontend developer | Learning DSA(Java) | Tech Enthusiast | CSE Core at VIT Vellore</h3><br>🌱 I’m currently learning DSA(in Java), AI/ML basics & backend-frontend integration<br><br>💬 Ask me about React, Tailwind css, Js, Node Js, Express Js<br><br>📫 How to reach me: shahtithi21@gmail.com
 
 
 ## 🌐 Socials:
