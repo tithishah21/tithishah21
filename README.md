@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tithi</h1>
-<h3 align="center">Full stack web development | LeetCode | Deep diving into AI/ML | CSE Core at VIT Vellore | Open to collaborations </h3><br>
+<h3 align="center">Full stack web development | LeetCode | AI/ML | CSE Core @ VIT Vellore | Open to collaborations </h3><br>
 
 # 💫 About Me: <br>
 Currently blending frontend creativity with intelligent systems. At Intelivita, I build scalable web apps. As a Senior Core Member at IEEE-CS VIT, I’ve contributed to high-impact projects and served as a tech panelist at major hackathons. Passionate about solving DSA problems and building meaningful, user-centric tech. Currently growing interest in AI/ML. I've also won a hackathon where I built PrepMate ,responsive learning web app for VIT students which creates flashcards from the pdf given, provides youtube video summaries in seconds and RAG application.<br><br>
