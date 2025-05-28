@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Tithi</h1>
-<h3 align="center">A passionate web developer | deep diving into AI/ML | Open to collaborations | CSE Core at VIT Vellore</h3><br>
+<h3 align="center">Full stack web development | LeetCode | Deep diving into AI/ML | CSE Core at VIT Vellore | Open to collaborations </h3><br>
 
-# 💫 About Me: I’m currently practicing DSA(in Java), AI/ML basics & backend-frontend integration<br><br>
+# 💫 About Me: <br>
+Currently blending frontend creativity with intelligent systems. At Intelivita, I build scalable web apps. As a Senior Core Member at IEEE-CS VIT, I’ve contributed to high-impact projects and served as a tech panelist at major hackathons. Passionate about solving problems and building meaningful, user-centric tech.<br><br>
 
 
 ## 🌐 Socials:
