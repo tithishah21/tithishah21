@@ -2,7 +2,7 @@
 <h3 align="center">Full stack web development | LeetCode | Deep diving into AI/ML | CSE Core at VIT Vellore | Open to collaborations </h3><br>
 
 # 💫 About Me: <br>
-Currently blending frontend creativity with intelligent systems. At Intelivita, I build scalable web apps. As a Senior Core Member at IEEE-CS VIT, I’ve contributed to high-impact projects and served as a tech panelist at major hackathons. Passionate about solving problems and building meaningful, user-centric tech.<br><br>
+Currently blending frontend creativity with intelligent systems. At Intelivita, I build scalable web apps. As a Senior Core Member at IEEE-CS VIT, I’ve contributed to high-impact projects and served as a tech panelist at major hackathons. Passionate about solving DSA problems and building meaningful, user-centric tech. Currently growing interest in AI/ML. I've also won a hackathon where I built PrepMate ,responsive learning web app for VIT students which creates flashcards from the pdf given, provides youtube video summaries in seconds and RAG application.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/twilight.zone21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tithi-shah-032a11288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahtithi21@gmail.com) 
