@@ -1,8 +1,11 @@
 <h1 align="center">Hi, I'm Tithi Shah</h1>
-<h3 align="center">Full stack web developer | LeetCode | AI/ML | CSE Core @ VIT Vellore | Open to collaborations </h3><br>
+<h3 align="center"> Upcoming SEP Intern @JPMC | Ex-SDE Intern @ Intelivita | CSE Core @ VIT Vellore </h3><br>
 
 # 💫 About Me: <br>
-Currently blending frontend creativity with intelligent systems.I have also made a project named AI Powered Resume Builder App. At Intelivita,as SDE Intern, I built scalable web apps. As a Senior Core Member at IEEE-CS VIT, I’ve contributed to high-impact projects and served as a tech panelist at major hackathons. Passionate about solving DSA problems and building meaningful, user-centric tech. Currently growing interest in AI/ML. I've also won a hackathon where I built PrepMate ,responsive learning web app for VIT students which creates flashcards from the pdf given, provides youtube video summaries in seconds and RAG application.<br><br>
+I’m a Computer Science undergraduate at VIT Vellore, passionate about building scalable, real-world software. I’ll be joining JPMorganChase as a SEP Summer Intern (May 2026), where I’m excited to learn and contribute within a global engineering ecosystem.
+Previously, I worked as an SDE Intern at Intelivita Pvt. Ltd., developing and scaling modern web applications using React, Next.js, TypeScript, Node.js, Express, and Supabase, with a strong focus on performance, clean architecture, and usability.
+I was a Senior Core Member of IEEE Computer Society, VIT, contributing to platforms like Hackbattle and ARCS, building the frontend for VIMAANAS (Aero Design Team, VIT), and serving as a Tech Panelist during a 36-hour national hackathon.
+I’ve also been part of a hackathon-winning team, building PrepMate, an AI-powered exam prep platform using RAG.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/twilight.zone21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tithi-shah-032a11288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahtithi21@gmail.com) 
