@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Tithi Shah</h1>
 <h3 align="center"> Upcoming SEP Intern @JPMC | Ex-SDE Intern @ Intelivita | CSE Core @ VIT Vellore </h3><br>
 
+
 # 💫 About Me: <br>
 I’m a Computer Science undergraduate at VIT Vellore, passionate about building scalable, real-world software. I’ll be joining JPMorganChase as a SEP Summer Intern (May 2026), where I’m excited to learn and contribute within a global engineering ecosystem.
 Previously, I worked as an SDE Intern at Intelivita Pvt. Ltd., developing and scaling modern web applications using React, Next.js, TypeScript, Node.js, Express, and Supabase, with a strong focus on performance, clean architecture, and usability.
