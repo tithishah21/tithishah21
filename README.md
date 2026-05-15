@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tithi Shah</h1>
-<h3 align="center"> Upcoming SEP Intern @JPMC | Ex-SDE Intern @ Intelivita | CSE Core @ VIT Vellore </h3><br>
+<h3 align="center"> Incoming SEP Intern @JPMC | Ex-SDE Intern @ Intelivita | CSE Core @ VIT Vellore </h3><br>
 
 
 # 💫 About Me: <br>
