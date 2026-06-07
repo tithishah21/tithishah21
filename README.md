@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Tithi Shah</h1>
-<h3 align="center"> Incoming SEP Intern @JPMC | Ex-SDE Intern @ Intelivita | CSE Core @ VIT Vellore </h3><br>
+<h3 align="center"> SEP Intern @JPMC | Ex-SDE Intern @ Intelivita | CSE Core @ VIT Vellore </h3><br>
 
-
-# 💫 About Me: <br>
-I’m a Computer Science undergraduate at VIT Vellore, passionate about building scalable, real-world software. I’ll be joining JPMorganChase as a SEP Summer Intern (May 2026), where I’m excited to learn and contribute within a global engineering ecosystem.
-Previously, I worked as an SDE Intern at Intelivita Pvt. Ltd., developing and scaling modern web applications using React, Next.js, TypeScript, Node.js, Express, and Supabase, with a strong focus on performance, clean architecture, and usability.
-I was a Senior Core Member of IEEE Computer Society, VIT, contributing to platforms like Hackbattle and ARCS, building the frontend for VIMAANAS (Aero Design Team, VIT), and serving as a Tech Panelist during a 36-hour national hackathon.
-I’ve also been part of a hackathon-winning team, building PrepMate, an AI-powered exam prep platform using RAG.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tithi-shah-032a11288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahtithi21@gmail.com) 
