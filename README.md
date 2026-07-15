@@ -21,6 +21,3 @@ Final year CSE student at VIT-Vellore, former SEP intern at JPMorgan Chase & Co.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tithishah21)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
